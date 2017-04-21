@@ -1,6 +1,6 @@
 # meteor_init
 
-Base app and packages initialization for new MeteorJS projects using Blaze.
+Base app and packages initialization for new [Meteor](https://www.meteor.com/) projects using [BlazeJS](http://blazejs.org/).
 
 These steps, and the accompanying configuration files, will set up a base MeteorJS app installation with the default BlazeJS renderer.
 
