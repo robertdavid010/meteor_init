@@ -39,7 +39,7 @@ session@1.1.7                 # Global state object. Use sparingly.
 # Rendering & Layout Packages
 arillo:flow-router-helpers    # Template helpers for route and route-link rendering
 kadira:blaze-layout           # Allows programatic rendering methods, used in the router
-aldeed:template-extension			# Programatically define template content, used to customize package templates
+aldeed:template-extension			# Define custom template content, useful to customize package templates
 
 # Miscellaneous Packages
 gwendall:body-events          # Re-enables attaching events to <body> which FlowRouter overrides
