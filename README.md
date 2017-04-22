@@ -46,6 +46,7 @@ Packages included are those needed to:
 Bring the project as up to date as possible with latest release of framework and packages.
 
 ```bash
+$ cd ../
 $ meteor update
 ```
 
