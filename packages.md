@@ -27,7 +27,8 @@ msavin:mongol
 ### Package details:
 
 **Base MDG packages**
-_Documentation available in official docs_
+
+_More information available in official_ [MeteorJS docs](http://docs.meteor.com/)
 
 random  
 check  
@@ -42,7 +43,9 @@ accounts-password
 <table>
 
 <tr>
-	<td>[alanning:roles](https://atmospherejs.com/alanning/roles)</td>
+	<td>
+	[alanning:roles](https://atmospherejs.com/alanning/roles)
+	</td>
 	<td>Desc</td>
 </tr>
 <tr>
