@@ -15,7 +15,7 @@ These steps, and the accompanying configuration files, will set up a base Meteor
 Navigate in your terminal to the directory where the new Meteor project is to be created and create a new project (examples for bash):
 
 ```bash
-$ meteor create <project name> --bare
+meteor create <project name> --bare
 ```
 
 **Add .gitignore**
@@ -23,8 +23,8 @@ $ meteor create <project name> --bare
 Download the handy Meteor .gitignore into the newly created project directory
 
 ```bash
-$ cd <project name>
-$ wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/.gitignore
+cd <project name>
+wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/.gitignore
 ```
 
 **Adding minimum package base**
@@ -32,7 +32,7 @@ $ wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/.giti
 Add the necessary packages for the base application.
 
 ```bash
-$ meteor add random check reactive-dict session less accounts-base accounts-password alanning:roles aldeed:collection2 aldeed:simple-schema aldeed:autoform aldeed:autoform-bs-datepicker aldeed:template-extension kadira:flow-router kadira:blaze-layout arillo:flow-router-helpers gwendall:body-events huttonr:bootstrap3 msavin:mongol
+meteor add random check reactive-dict session less accounts-base accounts-password alanning:roles aldeed:collection2 aldeed:simple-schema aldeed:autoform aldeed:autoform-bs-datepicker aldeed:template-extension kadira:flow-router kadira:blaze-layout arillo:flow-router-helpers gwendall:body-events huttonr:bootstrap3 msavin:mongol
 ```
 
 
@@ -52,8 +52,15 @@ Packages included are those needed to:
 Bring the project as up to date as possible with latest release of framework and packages.
 
 ```bash
-$ meteor update
+meteor update
 ```
+
+Afterwards you will probably also want to run:
+
+```bash
+meteor update --all-packages
+```
+
 > **Note:** Watch for the terminal output/message after the update from Meteor, it may direct you on how to update packages not updated during the global update.
 	Also, There may be cetrain interdepencies with prevent every single package from being fully up to date. If after manually entering `meteor udate <package name>` results in an up to date result from the terminal, these packages are as up do date as they can be.
 
