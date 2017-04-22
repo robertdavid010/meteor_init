@@ -1,6 +1,6 @@
 # meteor_init
 
-Base app and packages initialization for new [Meteor](https://www.meteor.com/) projects using [BlazeJS](http://blazejs.org/).
+Base application and packages initialization for new [Meteor](https://www.meteor.com/) projects using [BlazeJS](http://blazejs.org/).
 
 These steps, and the accompanying configuration files, will set up a base MeteorJS app installation with the default BlazeJS renderer. This is a bare project, an empty app ready to accept boiler plate code.
 
@@ -23,15 +23,14 @@ $ cd <project name>
 $ wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/.gitignore
 ```
 
-**Add packages config**
+**Adding minimum package base**
 
-Go to the Meteor application framework hidden directory. Replace the existing packages file with the meteor_init packages. This will install all the base packages minimally necessary to build a fully functioning prototype with production capability.
+Add the necessary packages for the base application.
 
 ```bash
-$ cd .meteor
-$ rm packages
-$ wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/packages
+$ meteor add random check reactive-dict session less accounts-base accounts-password alanning:roles aldeed:collection2 aldeed:simple-schema aldeed:autoform aldeed:autoform-bs-datepicker aldeed:template-extension kadira:flow-router kadira:blaze-layout arillo:flow-router-helpers gwendall:body-events huttonr:bootstrap3 msavin:mongol
 ```
+
 
 Packages included are those needed to:
 
@@ -40,6 +39,9 @@ Packages included are those needed to:
 * manage application state
 * render views according to the application state
 * provide basic UI libraries for views
+
+
+[See more package details](../blob/master/packages.md)
 
 **Update Meteor**
 
