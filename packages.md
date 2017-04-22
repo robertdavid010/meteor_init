@@ -27,8 +27,7 @@ msavin:mongol
 ### Package details:
 
 **Base MDG packages**
-
-_More information available in official_ [MeteorJS docs](http://docs.meteor.com/)
+_Documentation available in official docs_
 
 random  
 check  
@@ -40,60 +39,15 @@ accounts-password
 
 **3rd Party Packages**
 
-<table>
-
-<tr>
-	<td>
-	[alanning:roles](https://atmospherejs.com/alanning/roles)
-	</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[aldeed:autoform](https://atmospherejs.com/aldeed/autoform)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[aldeed:autoform-bs-datepicker](https://atmospherejs.com/aldeed/autoform-bs-datepicker)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[aldeed:template-extension](https://atmospherejs.com/aldeed/template-extension)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[kadira:flow-router](https://atmospherejs.com/kadira/flow-router)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[kadira:blaze-layout](https://atmospherejs.com/kadira/blaze-layout)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[huttonr:bootstrap3](https://atmospherejs.com/huttonr/bootstrap3)</td>
-	<td>Desc</td>
-</tr>
-<tr>
-	<td>[msavin:mongol](https://atmospherejs.com/msavin/mongol)</td>
-	<td>Desc</td>
-</tr>
-
-</table>
-
-
-
+|[alanning:roles](https://atmospherejs.com/alanning/roles)|desc|
+|[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)|desc|
+|[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)|desc|
+|[aldeed:autoform](https://atmospherejs.com/aldeed/autoform)|desc|
+|[aldeed:autoform-bs-datepicker](https://atmospherejs.com/aldeed/autoform-bs-datepicker)|desc|
+|[aldeed:template-extension](https://atmospherejs.com/aldeed/template-extension)|desc|
+|[kadira:flow-router](https://atmospherejs.com/kadira/flow-router)|desc|
+|[kadira:blaze-layout](https://atmospherejs.com/kadira/blaze-layout)|desc|
+|[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)|desc|
+|[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)|desc|
+|[huttonr:bootstrap3](https://atmospherejs.com/huttonr/bootstrap3)|desc|
+|[msavin:mongol](https://atmospherejs.com/msavin/mongol)|desc|
