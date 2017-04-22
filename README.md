@@ -51,6 +51,7 @@ Bring the project as up to date as possible with latest release of framework and
 $ meteor update
 ```
 > **Note:** Watch for the terminal output/message after the update from Meteor, it may direct you on how to update packages not updated during the global update.
+	There may be cetrain interdepencies with prevent every single package from being fully up to date. If after manually entering `meteor udate <package name>` results in an up to date result from the terminal, these packages are as up do date as they can be.
 
 ## Security Notice:
 
