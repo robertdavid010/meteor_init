@@ -1,6 +1,6 @@
-# Meteor Packages
+# Packages
 
-There are the additional packages used in this MeteorJS intitialization:
+Additional packages used in this MeteorJS intitialization:
 
 ### Raw List:
 
