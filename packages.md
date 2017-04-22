@@ -27,7 +27,7 @@ msavin:mongol
 ### Package details:
 
 **Base MDG packages**
-_Documentation available in official docs_
+_Documentation available in official_ [Meteor docs](http://docs.meteor.com/)
 
 random  
 check  
@@ -40,7 +40,7 @@ accounts-password
 **3rd Party Packages**
 
 |Package|Description|
-|-|:-:|
+|-|-|
 |[alanning:roles](https://atmospherejs.com/alanning/roles)|Manage user account roles|
 |[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)|Added functionality for collections|
 |[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)|Manage data validation schemas|
