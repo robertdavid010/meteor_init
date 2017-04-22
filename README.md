@@ -5,7 +5,7 @@ Base application and packages initialization for new [Meteor](https://www.meteor
 ### TODO:
 1. Review all packages for most current patterns and update, or replace as necessary
 	1. Update to SimpleSchema2
-	
+
 These steps, and the accompanying configuration files, will set up a base MeteorJS app installation with the default BlazeJS renderer. This is a bare project, an empty app ready to accept boiler plate code.
 
 ### Steps to initialize MeteorJS App
@@ -55,7 +55,7 @@ Bring the project as up to date as possible with latest release of framework and
 $ meteor update
 ```
 > **Note:** Watch for the terminal output/message after the update from Meteor, it may direct you on how to update packages not updated during the global update.
-	There may be cetrain interdepencies with prevent every single package from being fully up to date. If after manually entering `meteor udate <package name>` results in an up to date result from the terminal, these packages are as up do date as they can be.
+	Also, There may be cetrain interdepencies with prevent every single package from being fully up to date. If after manually entering `meteor udate <package name>` results in an up to date result from the terminal, these packages are as up do date as they can be.
 
 ## Security Notice:
 
