@@ -62,7 +62,7 @@ meteor update --all-packages
 ```
 
 > **Note:** Watch for the terminal output/message after the update from Meteor, it may direct you on how to update packages not updated during the global update.
-	Also, There may be cetrain interdepencies with prevent every single package from being fully up to date. If after manually entering `meteor udate <package name>` results in an up to date result from the terminal, these packages are as up do date as they can be.
+	Also, There may be cetrain interdepencies which prevent every single package from being fully up to date. If after manually entering `meteor udate <package name>` results in an up to date result from the terminal, these packages are as up do date as they can be.
 
 ## Security Notice:
 
