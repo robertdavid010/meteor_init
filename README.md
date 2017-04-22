@@ -41,14 +41,13 @@ Packages included are those needed to:
 * provide basic UI libraries for views
 
 
-[See more package details](../blob/master/packages.md)
+[See more package details](../master/packages.md)
 
 **Update Meteor**
 
 Bring the project as up to date as possible with latest release of framework and packages.
 
 ```bash
-$ cd ../
 $ meteor update
 ```
 > **Note:** Watch for the terminal output/message after the update from Meteor, it may direct you on how to update packages not updated during the global update.
