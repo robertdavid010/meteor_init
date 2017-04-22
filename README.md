@@ -49,6 +49,7 @@ Bring the project as up to date as possible with latest release of framework and
 $ cd ../
 $ meteor update
 ```
+> **Note:** Watch for the terminal output/message after the update from Meteor, it may direct you on how to update packages not updated during the global update.
 
 ## Security Notice:
 
