@@ -27,6 +27,7 @@ msavin:mongol
 ### Package details:
 
 **Base MDG packages**
+
 _Documentation available in official_ [Meteor docs](http://docs.meteor.com/)
 
 random  
