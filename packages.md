@@ -39,6 +39,8 @@ accounts-password
 
 **3rd Party Packages**
 
+|Package|Description|
+|-|:-:|
 |[alanning:roles](https://atmospherejs.com/alanning/roles)|desc|
 |[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)|desc|
 |[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)|desc|
