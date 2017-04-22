@@ -72,4 +72,8 @@ Security is of great importance when building software or services for public us
 
 The project is now ready for boilerplate code, or to begin coding from scratch.
 
-**Have Fun!**
+See the [meteor_boilerplate](https://github.com/robertdavid010/meteor_boilerplate) for a codebase boilerplate specifically developed to be deployed on top of this initialization process.
+
+### Completion
+
+**Have Fun!** Along with maybe a beer :)
