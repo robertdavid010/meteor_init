@@ -41,15 +41,15 @@ accounts-password
 
 |Package|Description|
 |-|:-:|
-|[alanning:roles](https://atmospherejs.com/alanning/roles)|desc|
-|[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)|desc|
-|[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)|desc|
-|[aldeed:autoform](https://atmospherejs.com/aldeed/autoform)|desc|
-|[aldeed:autoform-bs-datepicker](https://atmospherejs.com/aldeed/autoform-bs-datepicker)|desc|
-|[aldeed:template-extension](https://atmospherejs.com/aldeed/template-extension)|desc|
-|[kadira:flow-router](https://atmospherejs.com/kadira/flow-router)|desc|
-|[kadira:blaze-layout](https://atmospherejs.com/kadira/blaze-layout)|desc|
-|[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)|desc|
-|[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)|desc|
-|[huttonr:bootstrap3](https://atmospherejs.com/huttonr/bootstrap3)|desc|
-|[msavin:mongol](https://atmospherejs.com/msavin/mongol)|desc|
+|[alanning:roles](https://atmospherejs.com/alanning/roles)|Manage user account roles|
+|[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)|Added functionality for collections|
+|[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)|Manage data validation schemas|
+|[aldeed:autoform](https://atmospherejs.com/aldeed/autoform)|Extend simple schema to manage forms|
+|[aldeed:autoform-bs-datepicker](https://atmospherejs.com/aldeed/autoform-bs-datepicker)|Full featured datepicker|
+|[aldeed:template-extension](https://atmospherejs.com/aldeed/template-extension)|Allow flexibility in generating template views|
+|[kadira:flow-router](https://atmospherejs.com/kadira/flow-router)|Router for application state|
+|[kadira:blaze-layout](https://atmospherejs.com/kadira/blaze-layout)|Router rendering|
+|[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)|Template helpers for router|
+|[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)|Fix body events|
+|[huttonr:bootstrap3](https://atmospherejs.com/huttonr/bootstrap3)|Bootstrap libraries|
+|[msavin:mongol](https://atmospherejs.com/msavin/mongol)|Handy client side data model tool|
