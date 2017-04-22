@@ -24,6 +24,7 @@ Download the handy Meteor .gitignore into the newly created project directory
 
 ```bash
 cd <project name>
+rm .gitignore
 wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/.gitignore
 ```
 
