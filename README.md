@@ -19,6 +19,12 @@ meteor create <project name>
 ```
 > Normal project creation is used as a handy way of adding some simple npm files etc.
 
+After the projects is created, navigate into the new app directory
+
+```bash
+cd <project name>
+```
+
 ### Add NPM packages
 
 Adding some dependencies for meteor packages.
@@ -72,7 +78,6 @@ meteor update --all-packages
 Setup the directory for a fresh boilerplate.
 
 ```bash
-cd <project name>
 rm .gitignore
 rm -rf client
 rm -rf server
