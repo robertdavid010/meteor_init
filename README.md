@@ -15,16 +15,19 @@ These steps, and the accompanying configuration files, will set up a base Meteor
 Navigate in your terminal to the directory where the new Meteor project is to be created and create a new project (examples for bash):
 
 ```bash
-meteor create <project name> --bare
+meteor create <project name>
 ```
+> Normal project creation is used as a handy way of adding some simple npm files etc.
 
-**Add .gitignore**
+**Setup directory**
 
 Download the handy Meteor .gitignore into the newly created project directory
 
 ```bash
 cd <project name>
 rm .gitignore
+rm -rf client
+rm -rf server
 wget https://raw.githubusercontent.com/robertdavid010/meteor_init/master/.gitignore
 ```
 
