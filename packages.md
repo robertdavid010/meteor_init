@@ -12,8 +12,7 @@ less
 accounts-base  
 accounts-password  
 alanning:roles  
-aldeed:collection2  
-aldeed:simple-schema  
+aldeed:collection2-core  
 aldeed:autoform  
 aldeed:autoform-bs-datepicker  
 aldeed:template-extension  
@@ -21,8 +20,8 @@ kadira:flow-router
 kadira:blaze-layout  
 arillo:flow-router-helpers  
 gwendall:body-events  
-huttonr:bootstrap3  
 msavin:mongol  
+twbs:bootstrap
 
 ### Package details:
 
@@ -38,13 +37,18 @@ less
 accounts-base  
 accounts-password  
 
-**3rd Party Packages**
+### NPM Packages
+
+bcrypt
+simpl-schema
+
+
+###3rd Party Meteor Packages
 
 |Package|Description|
 |-|-|
 |[alanning:roles](https://atmospherejs.com/alanning/roles)|Manage user account roles|
-|[aldeed:collection2](https://atmospherejs.com/aldeed/collection2)|Added functionality for Mongo collections|
-|[aldeed:simple-schema](https://atmospherejs.com/aldeed/simple-schema)|Manage data validation schemas|
+|[aldeed:collection2](https://atmospherejs.com/aldeed/collection2-core)|Added functionality for Mongo collections|
 |[aldeed:autoform](https://atmospherejs.com/aldeed/autoform)|Extend SimpleSchema to manage forms|
 |[aldeed:autoform-bs-datepicker](https://atmospherejs.com/aldeed/autoform-bs-datepicker)|Full featured datepicker|
 |[aldeed:template-extension](https://atmospherejs.com/aldeed/template-extension)|Allow flexibility in generating template views|
@@ -52,5 +56,5 @@ accounts-password
 |[kadira:blaze-layout](https://atmospherejs.com/kadira/blaze-layout)|Router rendering|
 |[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)|Template helpers for router|
 |[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)|Fix body events|
-|[huttonr:bootstrap3](https://atmospherejs.com/huttonr/bootstrap3)|Bootstrap libraries|
 |[msavin:mongol](https://atmospherejs.com/msavin/mongol)|Handy client Mini-Mongo tool|
+|[twbs:bootstrap](https://atmospherejs.com/twbs/bootstrap)|Famous front end library|
