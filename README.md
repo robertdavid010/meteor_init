@@ -19,7 +19,7 @@ meteor create <project name>
 ```
 > Normal project creation is used as a handy way of adding some base npm files etc.
 
-After the projects is created, navigate into the new app directory
+After the project is created, navigate into the new app directory
 
 ```bash
 cd <project name>
