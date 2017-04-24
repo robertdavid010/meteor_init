@@ -1,11 +1,6 @@
 # meteor_init
 
-Base application and packages initialization for new [Meteor](https://www.meteor.com/) projects using [BlazeJS](http://blazejs.org/).
-
-**TODO:**
-1. Review all packages for most current patterns and update, or replace as necessary
-	1. ~~Update to SimpleSchema2~~
-1. Review package load order
+This is a base application and packages initialization for new [Meteor](https://www.meteor.com/) projects using [BlazeJS](http://blazejs.org/).
 
 These steps, and the accompanying configuration files, will set up a base MeteorJS app installation with the default BlazeJS renderer. This is a bare project, an empty app ready to accept boiler plate code.
 
@@ -68,3 +63,8 @@ See the [meteor_boilerplate](https://github.com/robertdavid010/meteor_boilerplat
 ### Completion
 
 **Have Fun!** Along with maybe a beer :)
+
+**TODO:**
+1. Review all packages for most current patterns and update, or replace as necessary
+	1. ~~Update to SimpleSchema2~~
+1. Review package load order
