@@ -17,7 +17,7 @@ Navigate in your terminal to the directory where the new Meteor project is to be
 ```bash
 meteor create <project name>
 ```
-> Normal project creation is used as a handy way of adding some simple npm files etc.
+> Normal project creation is used as a handy way of adding some base npm files etc.
 
 After the projects is created, navigate into the new app directory
 
