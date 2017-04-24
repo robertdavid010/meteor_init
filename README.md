@@ -5,7 +5,7 @@ Base application and packages initialization for new [Meteor](https://www.meteor
 **TODO:**
 1. Review all packages for most current patterns and update, or replace as necessary
 	1. ~~Update to SimpleSchema2~~
-	1. Review package load order
+1. Review package load order
 
 These steps, and the accompanying configuration files, will set up a base MeteorJS app installation with the default BlazeJS renderer. This is a bare project, an empty app ready to accept boiler plate code.
 
