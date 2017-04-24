@@ -40,10 +40,11 @@ accounts-password
 ### NPM Packages
 
 bcrypt
+
 simpl-schema
 
 
-###3rd Party Meteor Packages
+### 3rd Party Meteor Packages
 
 |Package|Description|
 |-|-|
