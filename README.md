@@ -67,4 +67,4 @@ See the [meteor_boilerplate](https://github.com/robertdavid010/meteor_boilerplat
 **TODO:**
 1. Review all packages for most current patterns and update, or replace as necessary
 	1. ~~Update to SimpleSchema2~~
-1. Review package load order
+1. Review package install order
