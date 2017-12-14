@@ -36,7 +36,7 @@ meteor npm install --save bootstrap@4.0.0-beta.2
 Add the necessary packages for the base application.
 
 ```bash
-meteor add random check reactive-dict session less accounts-base accounts-password alanning:roles aldeed:collection2-core aldeed:autoform aldeed:autoform-bs-datepicker aldeed:template-extension kadira:flow-router kadira:blaze-layout arillo:flow-router-helpers gwendall:body-events msavin:mongol twbs:bootstrap
+meteor add random check reactive-dict session less accounts-base accounts-password alanning:roles aldeed:collection2-core aldeed:autoform aldeed:autoform-bs-datepicker aldeed:template-extension kadira:flow-router kadira:blaze-layout arillo:flow-router-helpers gwendall:body-events msavin:mongol
 ```
 
 Packages included are those needed to:
