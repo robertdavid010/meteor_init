@@ -23,12 +23,12 @@ cd <project name>
 
 ### Add NPM packages
 
-Adding some dependencies for meteor packages.
+Adding some dependencies for meteor packages (listed independently for easy individual install).
 
 ```bash
 meteor npm install --save bcrypt
 meteor npm install --save simpl-schema
-meteor npm install bootstrap@4.0.0-beta.2
+meteor npm install --save bootstrap@4.0.0-beta.2
 ```
 
 ### Add Meteor packages
