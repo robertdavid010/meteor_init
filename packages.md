@@ -8,7 +8,7 @@ random
 check  
 reactive-dict  
 session  
-less  
+fourseven:scss  
 accounts-base  
 accounts-password  
 alanning:roles  
@@ -20,8 +20,7 @@ kadira:flow-router
 kadira:blaze-layout  
 arillo:flow-router-helpers  
 gwendall:body-events  
-msavin:mongol  
-twbs:bootstrap
+msavin:mongol
 
 ### Package details:
 
@@ -33,7 +32,7 @@ random
 check  
 reactive-dict  
 session  
-less  
+fourseven:scss  
 accounts-base  
 accounts-password  
 
@@ -58,4 +57,4 @@ simpl-schema
 |[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)|Template helpers for router|
 |[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)|Fix body events|
 |[msavin:mongol](https://atmospherejs.com/msavin/mongol)|Handy client Mini-Mongo tool|
-|[twbs:bootstrap](https://atmospherejs.com/twbs/bootstrap)|Famous front end library|
+
