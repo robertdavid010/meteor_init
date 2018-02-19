@@ -58,5 +58,5 @@ simpl-schema
 |[arillo:flow-router-helpers](https://atmospherejs.com/arillo/flow-router-helpers)|Template helpers for router|
 |[gwendall:body-events](https://atmospherejs.com/gwendall/body-events)|Fix body events|
 |[msavin:mongol](https://atmospherejs.com/msavin/mongol)|Handy client Mini-Mongo tool|
-|[rd010:bootstrap-master-modal](https://atmosphrerejs.com/rd010/bootstrap-master-modal)|Master Modals for Bootstrap|
+|[rd010:bootstrap-master-modal](https://atmospherejs.com/rd010/bootstrap-master-modal)|Master Modals for Bootstrap|
 
