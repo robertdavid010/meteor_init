@@ -69,6 +69,6 @@ See the [meteor_boilerplate](https://github.com/robertdavid010/meteor_boilerplat
 1. Review all packages for most current patterns and update, or replace as necessary
 	1. ~~Update to SimpleSchema2~~
 	1. ~~Update to support bootstrap 4 npm~~
-	1. Add bootstrap/front-end dependencies to custom <head>
+	1. ~~Add bootstrap/front-end dependencies~~
 	1. Consider remove accounts packages (?)
 1. Review package install order
