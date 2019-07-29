@@ -70,3 +70,7 @@ See the [meteor_boilerplate](https://github.com/robertdavid010/meteor_boilerplat
 	1. ~~Add bootstrap/front-end dependencies~~
 	1. Consider remove accounts packages (?)
 1. Review package install order
+
+## Notes:
+
+Meteor has changed some of it's file loading features in the last while. After 1.7 there is a new feature (default enabled) which disables all `js` eager loading of files. But [taking a look here](https://forums.meteor.com/t/do-i-have-to-manually-import-all-html/45430/5) we can see how to revert to default behaviour. Essentially there is a new key in `package.json` called `meteor` which also conatins a few other keys... primarily for now it seems that its primary use is to have "entry points" for the main modules of the app. If you remove the `meteor` key, then eager loading is as expected prior to 1.7/8
