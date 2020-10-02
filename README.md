@@ -26,7 +26,7 @@ cd <project name>
 Adding some dependencies for meteor packages (listed independently for easy individual install).
 
 ```bash
-meteor npm install --save bcrypt simpl-schema bootstrap@4.0.0-beta.2 popper.js
+meteor npm install --save bcrypt simpl-schema bootstrap popper.js
 ```
 
 ### Add Meteor packages
