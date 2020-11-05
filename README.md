@@ -34,7 +34,7 @@ meteor npm install --save bcrypt simpl-schema bootstrap popper.js
 Add the necessary packages for the base application.
 
 ```bash
-meteor add random check reactive-dict session fourseven:scss accounts-base accounts-password alanning:roles aldeed:collection2-core aldeed:autoform aldeed:autoform-bs-datepicker aldeed:template-extension kadira:flow-router kadira:blaze-layout arillo:flow-router-helpers gwendall:body-events msavin:mongol rd010:bootstrap-master-modal
+meteor add ostrio:flow-router-extra kadira:blaze-layout session fourseven:scss reactive-dict raix:handlebar-helpers
 ```
 
 Packages included are those needed to:
@@ -64,12 +64,8 @@ See the [meteor_boilerplate](https://github.com/robertdavid010/meteor_boilerplat
 **Have Fun!** Along with maybe a beer :)
 
 **TODO:**
-1. Review all packages for most current patterns and update, or replace as necessary
-	1. ~~Update to SimpleSchema2~~
-	1. ~~Update to support bootstrap 4 npm~~
-	1. ~~Add bootstrap/front-end dependencies~~
-	1. Consider remove accounts packages (?)
 1. Review package install order
+2. Udate documentation
 
 ## Notes:
 
